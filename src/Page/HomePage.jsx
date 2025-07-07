@@ -31,7 +31,7 @@ function HomePage() {
                                 <button className="hover:bg-[#00000084] px-4 py-2 rounded-[10px] transition-colors duration-800">Servicios</button>
                             </a>
                             <a href="#nosotros">
-                                <button className="hover:bg-[#00000084] px-4 py-2 rounded-[10px] transition-colors duration-800">Locks & Oc</button>
+                                <button className="hover:bg-[#00000084] px-4 py-2 rounded-[10px] transition-colors duration-800">Nostros</button>
                             </a>
                             <a href="#contacto">
                                 <button className="hover:bg-[#00000084] px-4 py-2 rounded-[10px] transition-colors duration-800">Contacto</button>
@@ -41,7 +41,7 @@ function HomePage() {
 
                     <div className="w-auto h-auto m-10 text-[#fff]">
                         <p className="w-[90vh] text-[50px] font-extrabold mb-[25vh] mt-[12vh]">
-                            Tu imagen habla por ti. Haz que diga lo mejor con Locks & Co.
+                            Tu imagen habla por ti. Haz que diga lo mejor con Triba
                         </p>
                         <section className="flex justify-between ">
                             <div>
@@ -60,10 +60,10 @@ function HomePage() {
                         <img src={img_1} />
                     </div>
                     <div className="w-[50%] p-10">
-                        <p className="text-[35px] font-bold mb-10">Somos Locks & Co</p>
+                        <p className="text-[35px] font-bold mb-10">Somos Triva</p>
                         <section className="grid grid-row-3 gap-5">
-                            <p>En Locks & Co combinamos la tradición de la barbería clásica con las últimas tendencias en peluquería moderna. Somos un espacio diseñado para quienes buscan más que un simple corte: ofrecemos una experiencia de estilo, cuidado y confianza. </p>
-                            <p>Nuestro equipo de profesionales está comprometido en brindar un servicio personalizado, con técnicas precisas y productos de alta calidad. Desde cortes clásicos hasta tratamientos capilares, afeitados premium y estilismo femenino, Locks & Co es el lugar donde tu imagen se transforma. </p>
+                            <p>En Triba combinamos la tradición de la barbería clásica con las últimas tendencias en peluquería moderna. Somos un espacio diseñado para quienes buscan más que un simple corte: ofrecemos una experiencia de estilo, cuidado y confianza. </p>
+                            <p>Nuestro equipo de profesionales está comprometido en brindar un servicio personalizado, con técnicas precisas y productos de alta calidad. Desde cortes clásicos hasta tratamientos capilares, afeitados premium y estilismo femenino, Triba es el lugar donde tu imagen se transforma. </p>
                             <p>Visítanos y descubre un ambiente acogedor, moderno y pensado para que salgas sintiéndote como tu mejor versión.</p>
                         </section>
                     </div>
@@ -101,7 +101,7 @@ function HomePage() {
                         <div>
                             <p className="w-[60vh]">CORTE DE CABELLO CLÁSICO</p>
                             <p className="text-[#A96E41]">ESTILO</p>
-                            <p className="text-[16px] font-normal w-[60vh]">Redescubre el estilo con un corte clásico o moderno, adaptado a tu personalidad. Ya sea elegante, urbano o casual, en Locks & Co cuidamos cada detalle para que salgas con una imagen renovada.</p>
+                            <p className="text-[16px] font-normal w-[60vh]">Redescubre el estilo con un corte clásico o moderno, adaptado a tu personalidad. Ya sea elegante, urbano o casual, en Triba cuidamos cada detalle para que salgas con una imagen renovada.</p>
                             <p>S/ 20.00</p>
                         </div>
                     </div>
